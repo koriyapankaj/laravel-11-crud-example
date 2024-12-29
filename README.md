@@ -17,7 +17,7 @@ Tailwind CSS for modern and responsive UI design.
 
 ```
 git clone https://github.com/koriyapankaj/laravel-11-crud-example.git
-cd laravel-crud
+cd laravel-11-crud-example
 
 ```
 
